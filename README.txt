@@ -1,6 +1,6 @@
 how to run this program.
 
-I exported it to 5910546384.jar
+I exported it to XO_ai.jar
 
 $ java -jar 5910546384.jar arg[0] arg[1] arg[2]
 
@@ -19,11 +19,3 @@ because I tested it, it took lot of time to compelete
 
 So i try to do time limit for computation, but the result it was not 100% accurate.
 
-
-
-I submit this code, because I want to show that I was working on this.
-
-Maybe you would give me a bonus point. :) Thank you.
-
-Thitiwat Thongbor
-5910546384
